@@ -3,3 +3,10 @@
     background-color: lemonchiffon;
 }
 
+.hero {
+    background-image: url(../images/school-of-athens.jpeg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
