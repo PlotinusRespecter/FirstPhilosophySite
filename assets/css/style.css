@@ -1,6 +1,33 @@
 * {
-    font-family: Garamond, Arial, Helvetica, sans-serif;
+    font-family: Garamond, Helvetica, Arial, sans-serif;
     background-color: lemonchiffon;
+}
+
+/* Header Style Sheet*/
+
+header {
+    background-color: sienna;
+    padding: 25px 45px;
+}
+
+header h1 {
+    color: lemonchiffon;
+    background-color: sienna;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    display: inline;
+}
+
+header h2 {
+    color: lemonchiffon;
+    background-color: sienna;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic;
+    margin: 0;
+    display: inline;
+    float: right;
 }
 
 .hero {
